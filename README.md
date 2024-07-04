@@ -39,9 +39,6 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 
 ## Data Analysis
 
-### Processed Data
-- Initial processing and cleaning of the dataset.
-
 ### Design & Analysis
 - **Content Distribution**: Analyzing the distribution of movies and TV shows on Netflix.
 - **Yearly and Monthly Distribution**: Visualizing content added over the years and months.
