@@ -23,7 +23,7 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 ## Tools and Techniques Used
 
 ### Excel
-- **Data Cleaning**: Removed extra empty columns and handled missing values using Excel functions and tools.
+- **Data Cleaning**: Removed extra empty columns and handled missing values using Excel functions such as power query and tools.
 - **Column Addition**: Added new columns such as `Year_added` and `Month_added` using `YEAR()` and `MONTH()` functions.
 - **Data Processing**: Used Excel functions like `IF()`, `ISNULL()`, and text functions to process and clean data.
 - **Pivot Tables**: Created pivot tables to summarize data and perform exploratory data analysis.
@@ -57,33 +57,39 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 ### Genre Analysis
 - **Genres Distribution**: Analyzing the distribution of genres on Netflix.
 
-  **For detailed view of what is done in each analysis check the excel file.[Link](https://github.com/ManishaM091/Excel_Netflix_EDA/blob/800fac646ce63cef41f11e5c86471df399b6b513/Netflix%20Content%20Analysis%20%20github.xlsx)**
+  **For detailed view of what is done in each analysis check the excel file [Link](https://github.com/ManishaM091/Excel_Netflix_EDA/blob/800fac646ce63cef41f11e5c86471df399b6b513/Netflix%20Content%20Analysis%20%20github.xlsx)**
 
 ## Data Visualization 
 
 ### Overview Dashboard
 - **Charts Included**:
-  - Content distribution
-  - Monthly content added
-  - Yearly content added
-  - Release date distribution
-  - Rating analysis
-  - Duration analysis for movies
-  - Directors with most content
+  - Content distribution - Pie Chart
+  - Monthly content added - Bar Chart
+  - Yearly content added - Line Chart
+  - Release date distribution - Bar Chart
+  - Rating analysis - Bar Chart
+  - Duration analysis for movies - Histogram
+  - Directors with most content - Bar Chart
 - **Slicers**: Type, year, month, release year, rating
+  
 ![Overview Dashboard](Overview_dashboard.png)
+
 ### Geographical Dashboard
 - **Charts Included**:
   - Geographical analysis map
-  - Top countries by content production
+  - Top countries by content production - Bar Chart
 - **Slicers**: Type, year, release year, country
+  
 ![Geographical Dashboard](Geographical_analysis.png)
+
 ### Genre Dashboard
 - **Charts Included**:
-  - Genre distribution by count
+  - Genre distribution by count - Bar Chart
 - **Timeline**: Years, quarters, months, days
 - **Slicers**: Type, title
+  
 ![Genre Dashboard](Genre_analysis.png)
+
 ## Acknowledgements
 
 This project uses the Netflix Titles dataset from Kaggle. The data was used to explore and visualize trends, duration, ratings, geographical distribution, and genre popularity of Netflix content.
