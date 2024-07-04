@@ -6,7 +6,7 @@ This project analyzes the Netflix Titles dataset to uncover insights into the co
 
 ## Dataset
 
-The Netflix Titles dataset is a comprehensive compilation of movies and TV shows available on Netflix. [LINK](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data).  The dataset contains the following columns:
+The Netflix Titles dataset is a comprehensive compilation of movies and TV shows available on Netflix. [LINK](netflix_titles.csv).  The dataset contains the following columns:
 - `show_id`: A unique identifier for each title.
 - `type`: The category of the title (Movie or TV Show).
 - `title`: The name of the movie or TV show.
@@ -56,6 +56,8 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 
 ### Genre Analysis
 - **Genres Distribution**: Analyzing the distribution of genres on Netflix.
+
+  **For detailed view of what is done in each analysis check the excel file.** [Link](Netflix Content Analysis  github.xlsx)
 
 ## Data Visualization 
 
