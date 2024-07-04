@@ -55,9 +55,9 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 - **Country Analysis**: Visualizing the geographical distribution of Netflix content production.
 
 ### Genre Analysis
-- **Genres Distribution**: Analyzing the distribution of genres on Netflix.[Link](Netflix Content Analysis  github.xlsx)
+- **Genres Distribution**: Analyzing the distribution of genres on Netflix.
 
-  **For detailed view of what is done in each analysis check the excel file. **
+  **For detailed view of what is done in each analysis check the excel file.[Link](https://github.com/ManishaM091/Excel_Netflix_EDA/blob/800fac646ce63cef41f11e5c86471df399b6b513/Netflix%20Content%20Analysis%20%20github.xlsx)**
 
 ## Data Visualization 
 
